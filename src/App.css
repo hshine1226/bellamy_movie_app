@@ -1,0 +1,20 @@
+.loader {
+  padding: 5px 12px;
+}
+.loader span {
+  font-size: 30px;
+}
+.header {
+  font-size: 45px;
+  font-weight: 600;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+.movies {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(476px, 1fr));
+
+  padding: 30px 22px;
+}
