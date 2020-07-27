@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bellamy_movie_app/precache-manifest.a432277abb0a9c7f0044360baf325a7f.js"
+  "/bellamy_movie_app/precache-manifest.6ace9a08d2ab4a46caee96fe750f0488.js"
 );
 
 self.addEventListener('message', (event) => {
