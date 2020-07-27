@@ -3,10 +3,10 @@ import {Link} from "react-router-dom";
 import PropTypes from "prop-types";
 import "./Movie.scss";
 
-function Movie({ year, title, summary, poster, genres, url }) {
+function Movie({ id, year, title, summary, poster, genres, url }) {
   return (
     <Link to={{
-      pathname: "/movie-detail",
+      pathname: `/movie/${id}`,
       state: {
         year,
         title,
@@ -25,8 +25,8 @@ function Movie({ year, title, summary, poster, genres, url }) {
           <ul className="movie__genres">
             {genres.map((genre, idx) => (
               <li key={idx} className="genres__li">
-                {genre}
-              </li>
+                {genre}              
+              </li>              
             ))}
           </ul>
 
