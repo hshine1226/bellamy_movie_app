@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bellamy_movie_app/static/css/main.a52fa22a.chunk.css",
+    "main.css": "/bellamy_movie_app/static/css/main.66ebcf58.chunk.css",
     "main.js": "/bellamy_movie_app/static/js/main.104d82dd.chunk.js",
     "main.js.map": "/bellamy_movie_app/static/js/main.104d82dd.chunk.js.map",
     "runtime-main.js": "/bellamy_movie_app/static/js/runtime-main.3fca718f.js",
@@ -8,15 +8,15 @@
     "static/js/2.b9eae631.chunk.js": "/bellamy_movie_app/static/js/2.b9eae631.chunk.js",
     "static/js/2.b9eae631.chunk.js.map": "/bellamy_movie_app/static/js/2.b9eae631.chunk.js.map",
     "index.html": "/bellamy_movie_app/index.html",
-    "precache-manifest.c4a3a35219251d96f97c40bad63b2e76.js": "/bellamy_movie_app/precache-manifest.c4a3a35219251d96f97c40bad63b2e76.js",
+    "precache-manifest.f1e69ad4fcf92db2573c2d5df7ed087f.js": "/bellamy_movie_app/precache-manifest.f1e69ad4fcf92db2573c2d5df7ed087f.js",
     "service-worker.js": "/bellamy_movie_app/service-worker.js",
-    "static/css/main.a52fa22a.chunk.css.map": "/bellamy_movie_app/static/css/main.a52fa22a.chunk.css.map",
+    "static/css/main.66ebcf58.chunk.css.map": "/bellamy_movie_app/static/css/main.66ebcf58.chunk.css.map",
     "static/js/2.b9eae631.chunk.js.LICENSE.txt": "/bellamy_movie_app/static/js/2.b9eae631.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3fca718f.js",
     "static/js/2.b9eae631.chunk.js",
-    "static/css/main.a52fa22a.chunk.css",
+    "static/css/main.66ebcf58.chunk.css",
     "static/js/main.104d82dd.chunk.js"
   ]
 }
