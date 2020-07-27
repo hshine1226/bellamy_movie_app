@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/bellamy_movie_app/static/css/main.5eaf83dd.chunk.css",
-    "main.js": "/bellamy_movie_app/static/js/main.87e68396.chunk.js",
-    "main.js.map": "/bellamy_movie_app/static/js/main.87e68396.chunk.js.map",
+    "main.js": "/bellamy_movie_app/static/js/main.52dabbcd.chunk.js",
+    "main.js.map": "/bellamy_movie_app/static/js/main.52dabbcd.chunk.js.map",
     "runtime-main.js": "/bellamy_movie_app/static/js/runtime-main.3fca718f.js",
     "runtime-main.js.map": "/bellamy_movie_app/static/js/runtime-main.3fca718f.js.map",
-    "static/js/2.74b459ac.chunk.js": "/bellamy_movie_app/static/js/2.74b459ac.chunk.js",
-    "static/js/2.74b459ac.chunk.js.map": "/bellamy_movie_app/static/js/2.74b459ac.chunk.js.map",
+    "static/js/2.52ab393b.chunk.js": "/bellamy_movie_app/static/js/2.52ab393b.chunk.js",
+    "static/js/2.52ab393b.chunk.js.map": "/bellamy_movie_app/static/js/2.52ab393b.chunk.js.map",
     "index.html": "/bellamy_movie_app/index.html",
-    "precache-manifest.f7aad321f570b13f4a7ed2cd2c4879d1.js": "/bellamy_movie_app/precache-manifest.f7aad321f570b13f4a7ed2cd2c4879d1.js",
+    "precache-manifest.82b039c7eaa8b3e49e41a251687f65ef.js": "/bellamy_movie_app/precache-manifest.82b039c7eaa8b3e49e41a251687f65ef.js",
     "service-worker.js": "/bellamy_movie_app/service-worker.js",
     "static/css/main.5eaf83dd.chunk.css.map": "/bellamy_movie_app/static/css/main.5eaf83dd.chunk.css.map",
-    "static/js/2.74b459ac.chunk.js.LICENSE.txt": "/bellamy_movie_app/static/js/2.74b459ac.chunk.js.LICENSE.txt"
+    "static/js/2.52ab393b.chunk.js.LICENSE.txt": "/bellamy_movie_app/static/js/2.52ab393b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3fca718f.js",
-    "static/js/2.74b459ac.chunk.js",
+    "static/js/2.52ab393b.chunk.js",
     "static/css/main.5eaf83dd.chunk.css",
-    "static/js/main.87e68396.chunk.js"
+    "static/js/main.52dabbcd.chunk.js"
   ]
 }

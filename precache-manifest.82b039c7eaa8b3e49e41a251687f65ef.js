@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2fe7dbaa0e57e4bb10ffb2813b02686",
+    "revision": "4a4376ac0a7706e51e4bcdfdb2e45a33",
     "url": "/bellamy_movie_app/index.html"
   },
   {
-    "revision": "ad630a0ab1a14f67c5c6",
+    "revision": "f8577cdcc0ab7b0d5d1b",
     "url": "/bellamy_movie_app/static/css/main.5eaf83dd.chunk.css"
   },
   {
-    "revision": "c68162738d9e0fc9d081",
-    "url": "/bellamy_movie_app/static/js/2.74b459ac.chunk.js"
+    "revision": "e905e761b9b93571156e",
+    "url": "/bellamy_movie_app/static/js/2.52ab393b.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/bellamy_movie_app/static/js/2.74b459ac.chunk.js.LICENSE.txt"
+    "url": "/bellamy_movie_app/static/js/2.52ab393b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ad630a0ab1a14f67c5c6",
-    "url": "/bellamy_movie_app/static/js/main.87e68396.chunk.js"
+    "revision": "f8577cdcc0ab7b0d5d1b",
+    "url": "/bellamy_movie_app/static/js/main.52dabbcd.chunk.js"
   },
   {
     "revision": "e61c9f0c439e2c7b9476",
