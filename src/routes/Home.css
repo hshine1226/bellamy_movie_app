@@ -1,0 +1,31 @@
+.container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.loader {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 12px;
+}
+.loader span {
+  font-size: 30px;
+}
+.header {
+  font-size: 45px;
+  font-weight: 600;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+.movies {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(476px, 1fr));
+  gap: 60px;
+  padding: 30px 22px;
+}
